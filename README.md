@@ -2,6 +2,9 @@
 **Fork** this repository to use for practicing Github flow.
 
 # Attendance
-[yanranz; zixins]
+
 
 yeah yeah yeah
+
+[yanranz, zixins, juliahou]
+
